@@ -1,0 +1,7 @@
+{
+  "name": "星命心旅 (Stellar Mind)",
+  "description": "融合东方八字、西方占星与人类图的命理心理分析平台，为您提供极简治愈的能量引导与行动建议。",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
